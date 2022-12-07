@@ -7,8 +7,8 @@ extern "C"
 }
 #include <AsyncMqttClient.h>
 
-#define WIFI_SSID "REPLACE_WITH_YOUR_SSID"
-#define WIFI_PASSWORD "REPLACE_WITH_YOUR_PASSWORD"
+#define WIFI_SSID "LucasR"
+#define WIFI_PASSWORD "lucasromary3"
 
 #define MQTT_HOST "mqtt.ci-ciad.utbm.fr"
 #define MQTT_PORT 1883
